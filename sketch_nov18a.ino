@@ -9,8 +9,8 @@
 #include <SPI.h>
 #include <MFRC522.h>
 
-const char* ssid     = "RSML_IoT";
-const char* password = "rsmliot2025";
+const char* ssid     = "Kos Bapak Munid";
+const char* password = "candaceria";
 
 #define SS_PIN  5
 #define RST_PIN 2
